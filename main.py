@@ -5,8 +5,8 @@ import argparse
 
 def banner():
     print("""
-     ________________
-    /_______________/|              - Printpwn -
+     ________________                - Printpwn -
+    /______________ /|    - a toolkit for exploiting printers -
    /___________/___//|      Written by: @encrypted23 & @sticks
   |===        |----| |              Version: 1.0
   |           |   ô| |
@@ -51,6 +51,7 @@ def Check(port):
     
     except:
         print("[-] Port 9100 is not open")
+
 
 banner() 
 main()
