@@ -6,7 +6,7 @@ import argparse
 def banner():
     print("""
      ________________
-    /_______________/|      - Printer exploition-toolkit -
+    /_______________/|              - Printpwn -
    /___________/___//|      Written by: @encrypted23 & @sticks
   |===        |----| |              Version: 1.0
   |           |   ô| |
