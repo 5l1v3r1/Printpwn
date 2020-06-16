@@ -52,6 +52,5 @@ def Check(port):
     except:
         print("[-] Port 9100 is not open")
 
-
 banner() 
 main()
